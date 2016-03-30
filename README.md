@@ -2,8 +2,7 @@
 
 ## Team member:
 
--**Kai YE**
--**Zhang Legendary**
--**RI TIAN HAO**
+-  **Kai Ye**
+-  **Zhang Lengenday**
+-  **Jiahao** 
 
-          
