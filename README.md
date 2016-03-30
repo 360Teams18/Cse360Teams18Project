@@ -3,6 +3,7 @@
 ## Team member:
 
 -  **Kai Ye**
--  **Zhang Lengenday**
+-  **Zhang Lengendary**
 -  **Jiahao** 
-
+-  **Michael Heaton** 
+-  **Yiting Lin** 
