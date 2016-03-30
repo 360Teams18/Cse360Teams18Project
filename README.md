@@ -1,9 +1,9 @@
-# Cse360 teams 18
+## Cse360 teams 18
 
-Team member: **Kai YE**
+## Team member:
 
-             **Zhang Legendary**
-
-             **RI TIAN HAO**
+-**Kai YE**
+-**Zhang Legendary**
+-**RI TIAN HAO**
 
           
