@@ -1,0 +1,17 @@
+CSE 360 Team 18 Backlog
+Dice:
+1.	Dice can be rolled a random number.
+Players:
+1.	Player can choose to play with other player or with AI.
+2.	Each player can roll dice one time per round.
+
+
+
+
+
+
+Rules:
+1.	Every player has five health.
+2.	When player got 1, this player will stop 1 round.
+3.	When player got a bigger number than AI, AI loss 1 health.
+4.	When player get 6, double damage to AI.
