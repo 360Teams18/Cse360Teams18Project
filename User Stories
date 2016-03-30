@@ -1,12 +1,12 @@
-As a user I would like a dice game that allows me to compete with another player in a Deathmatch.  
+1.As a user I would like a dice game that allows me to compete with another player in a Deathmatch.  
 I would also like a system that allows me to view my score rank with respect to other players and past games. 
 
-As a user I would like to be able to register my nickname in the game system before I begin playing. 
+2.As a user I would like to be able to register my nickname in the game system before I begin playing. 
 
-As a user I would like a game that allows me to play repetitively as many times as I want.  
+3.As a user I would like a game that allows me to play repetitively as many times as I want.  
 To exit the game I would like to hit a quit button.
 
-As a Manager I would like a system that allows me to view the ranks of players from past games.
+4.As a Manager I would like a system that allows me to view the ranks of players from past games.
 
 
 
