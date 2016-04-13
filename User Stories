@@ -1,13 +1,15 @@
-1.As a user I would like a dice game that allows me to compete with another player in a Deathmatch.  
-I would also like a system that allows me to view my score rank with respect to other players and past games. 
+1. As a player I would like a dice game that allows me to race another player in an airplane race.  I would also like a system that 
+allows me to view my score in terms of number of wins in comparison to other players of past games.
 
-2.As a user I would like to be able to register my nickname in the game system before I begin playing. 
+2. As a player I would like to I would like a game that allows me to play repetitively as many times as I want.
 
-3.As a user I would like a game that allows me to play repetitively as many times as I want.  
-To exit the game I would like to hit a quit button.
+3. As a player I would like a game that has at least 3 dynamic rules that effect the speed and performance of the airplane.  These
+should give an advantage to a player depending on what they roll. Perhaps one rule could determine when a player is able to start moving.
+Another could determine whether or not an airplane gets stalled.  Furthermore, a rule could include the ability of an airplane to double 
+its speed during the race.
 
-4.As a Manager I would like a system that allows me to view the ranks of players from past games.
-
-
+4. As a score viewer I would like a system that allows me to update and view my game score rank with respect to players from 
+past games.  The system should be convienient and easy to use.  Perhaps it could be implemented in a system that is separate from
+the game itself.
 
 
