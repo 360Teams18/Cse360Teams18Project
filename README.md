@@ -27,10 +27,10 @@ Points will be deducted for overly simplistic implementations.  For example, a t
 - [x]	Only documentation is required at this point
 
 ####Rubric for Week 1:
--•	User Stories:  10 pts
--•	Use Case Diagram: 10 pts
--•	GitHub: 3 pts
--•	Backlog: 2 pts
+* User Stories:  10 pts
+*	Use Case Diagram: 10 pts
+*	GitHub: 3 pts
+*	Backlog: 2 pts
 
 ####Week 2 – 3: 37%
 
@@ -40,9 +40,9 @@ Points will be deducted for overly simplistic implementations.  For example, a t
 - [x]	  Unit tests for implemented features
 
 ####Rubric for Week 2-3:
-•	Documentation: 10 pts
-•	Unit Tests: 15 pts
-•	Working Code: 12 pts
+*	Documentation: 10 pts
+*	Unit Tests: 15 pts
+*	Working Code: 12 pts
 
 ####Week 4 – 5: 38%
 - [ ]		100% of backlog features should be complete
@@ -51,7 +51,7 @@ Points will be deducted for overly simplistic implementations.  For example, a t
 - [ ]	All documentation should be up to date, reflecting any changes made during development
 
 ####Rubric:
-•	Documentation: 10 pts
-•	Unit Tests: 12 pts
-•	Working Code: 16 pts
+*	Documentation: 10 pts
+*	Unit Tests: 12 pts
+*	Working Code: 16 pts
 
