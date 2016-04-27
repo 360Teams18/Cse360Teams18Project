@@ -25,17 +25,20 @@ Points will be deducted for overly simplistic implementations.  For example, a t
 - [x]	Commit documents: minimum of use case diagram, and user stories, feature backlog
 - [x]	Each person should commit at least once, to show they are able to access the repository
 - [x]	Only documentation is required at this point
+
 ####Rubric for Week 1:
 •	User Stories:  10 pts
 •	Use Case Diagram: 10 pts
 •	GitHub: 3 pts
 •	Backlog: 2 pts
+
 ####Week 2 – 3: 37%
 
 - [x]		50% of the backlog features should be complete
 - [x]		Documentation should be updated to reflect any changes made during the development cycle and include build/play instructions
 - [x]		Code should compile without errors
-- [x]	Unit tests for implemented features
+- [x]	  Unit tests for implemented features
+
 ####Rubric for Week 2-3:
 •	Documentation: 10 pts
 •	Unit Tests: 15 pts
@@ -46,6 +49,7 @@ Points will be deducted for overly simplistic implementations.  For example, a t
 - [ ]		A minimum of the project description should be implemented
 - [ ]	The project should have thorough unit test coverage
 - [ ]	All documentation should be up to date, reflecting any changes made during development
+
 ####Rubric:
 •	Documentation: 10 pts
 •	Unit Tests: 12 pts
