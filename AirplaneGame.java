@@ -14,4 +14,4 @@ public class AirplaneGame
       frame.pack();
       frame.setVisible(true);
    }
-}
+} 
