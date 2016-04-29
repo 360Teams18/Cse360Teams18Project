@@ -1,3 +1,6 @@
+/** IMPORTANT NOTE: In order to run properly the text file 'stats.txt' must be included.
+*/
+
 package Game;
 
 import javax.swing.JFrame;
