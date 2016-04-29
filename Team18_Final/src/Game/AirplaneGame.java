@@ -1,4 +1,4 @@
-/** IMPORTANT NOTE: In order to run properly the text file 'stat.txt' must be included
+/** IMPORTANT NOTE: In order to run properly the text file 'stats.txt' must be included
  * in the proper location.
 */
 
@@ -7,6 +7,7 @@ package Game;
 import javax.swing.JFrame;
 import java.io.*;
 import java.util.*;
+
 
 /**
 * How to play: 
