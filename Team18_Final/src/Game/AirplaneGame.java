@@ -1,4 +1,5 @@
-/** IMPORTANT NOTE: In order to run properly the text file 'stats.txt' must be included.
+/** IMPORTANT NOTE: In order to run properly the text file 'stats.txt' must be included
+ * in the proper location.
 */
 
 package Game;
