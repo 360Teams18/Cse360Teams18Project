@@ -1,17 +1,21 @@
 CSE 360 Team 18 Backlog
 
+NOTE: In order to run properly the program must have the text file named 'stats.txt'
+
 Problem Description(based on the user stories): 
 We are to make an airplane race game with at least 3 dynamic rules which confer 
 an advantage to a player depending on the value of the dice that they roll.  Furthermore our game must have a system to allow a user
 to record and view their score statistics to players from past games.
 
 Priorities:
-1. Implement classes representing a Dice and a Player.
-2. Implement a JPanel class called AirplanePanel to have an GUI for the game.
+1. Implement classes representing a Dice and a Player.  -Task completed
+2. Implement a JPanel class called AirplanePanel to have an GUI for the game. -Task completed
+3. Implement a statistic recording system. -Task completed
 
 Dependencies:
 1. The functionality of the game's rules depend on the implementation of the Dice and Player classes.
 2. The aesthetic features involving the looks of the game depend on the JPanel descendant class AirplanePanel.
+3. The statistics viewing feature depends on the implementation of the AirplanePanel class.
 
 Note: A 20 sided dice is used for this game.
 
