@@ -1,6 +1,6 @@
 CSE 360 Team 18 Backlog
 
-NOTE: In order to run properly the program must have the text file named 'stats.txt'
+NOTE: In order to run properly the program must have the text file named 'stats.txt'.
 
 Problem Description(based on the user stories): 
 We are to make an airplane race game with at least 3 dynamic rules which confer 
@@ -26,3 +26,4 @@ Rules:
 4. Rule 1 is used to determine if you can begin moving again if your plane 'stalls'.
 
 Win Condition: A player's plane crosses the finishline.
+
