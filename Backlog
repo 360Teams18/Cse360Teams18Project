@@ -3,9 +3,9 @@ CSE 360 Team 18 Backlog
 NOTE: In order to run properly the program must have the text file named 'stats.txt'.
 
 Problem Description(based on the user stories): 
-We are to make an airplane race game with at least 3 dynamic rules which confer 
-an advantage to a player depending on the value of the dice that they roll.  Furthermore our game must have a system to allow a user
-to record and view their score statistics to players from past games.
+    We are to make an airplane race game with at least 3 dynamic rules which confer an advantage to a player 
+depending on the value of the dice that they roll. Furthermore our game must have a system to allow a user to 
+record and view their score statistics to players from past games.
 
 Priorities:
 1. Implement classes representing a Dice and a Player.  -Task completed
