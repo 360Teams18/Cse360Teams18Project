@@ -10,7 +10,7 @@ public class Player {
 	Dice myDice;
 	int currentPos;
 	int speed;
- int prevRoll;
+ 	int prevRoll;
  
  private final int FINISH_LINE = 750;
  
